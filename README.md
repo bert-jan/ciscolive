@@ -30,14 +30,14 @@ Production Networks](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/
 * [LABS - Next-Level Automation Using Sources of Truth - DEVWKS-2295](https://developer.cisco.com/learning/labs/devwks-2295/introduction/)
 * [Automated Migration from Cisco or 3rd party Infra to ACI](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/DEVNET-2409.pdf)
 * [ISE Deployments in the Cloud](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSEC-2000.pdf)
-* [YouTube | I Broke the Network - but It Came Back! Build Self-Healing Networks Using NETCONF and Python](https://www.youtube.com/watch?v=Q7QrEy9N_y0)
+* [I Broke the Network - but It Came Back! Build Self-Healing Networks Using NETCONF and Python (YouTube)](https://www.youtube.com/watch?v=Q7QrEy9N_y0)
 
 ## Switching/Routing&Wireless
 * [BGP in the Enterprise
 for Fun and (fake) Profit - Hands-on Labs](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRENT-2978.pdf)
 * [Mastering BGP with recent features and troubleshooting techniques on IOS-XR](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSP-2140.pdf)
 * [ACI Troubleshooting: A deep dive into PBR](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/BRKDCN-3915.pdf)
-* [YouTube | ACI Troubleshooting: Advanced L3out Features - BRKDCN 3569](https://www.youtube.com/watch?v=CjycOIQeOYw)
+* [ACI Troubleshooting: Advanced L3out Features - BRKDCN 3569 (YouTube)](https://www.youtube.com/watch?v=CjycOIQeOYw)
 * [IOS XR Installation Demystification](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSP-2693.pdf)
 * [IOS-XE Routing Platform Troubleshooting Hands-on Lab](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRTRS-2293.pdf)
 * [IOS-XR EVPN Hands-on Lab](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSP-2837.pdf)
