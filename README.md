@@ -23,12 +23,15 @@ Network - Hands-on Labs](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2
 Playbooks](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/DEVNET-2050.pdf)
 * [Ansible Zero to Hero for Network Automation](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTROPS-2409.pdf)
 * [Python for Enterprise Network Elements](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/DEVWKS-2320.pdf)
+* [Websockets and webhooks: Embed network intelligence into your applications](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/DEVNET-2262.pdf)
 * [Deploying XR
 Programmability in
 Production Networks](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/BRKSPG-2031.pdf)
 * [Next-Level Automation Using Sources of Truth](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/DEVWKS-2295.pdf)
 * [LABS - Next-Level Automation Using Sources of Truth - DEVWKS-2295](https://developer.cisco.com/learning/labs/devwks-2295/introduction/)
 * [Automated Migration from Cisco or 3rd party Infra to ACI](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/DEVNET-2409.pdf)
+* [4 Easy Ways for Network Engineers to Go from an Un-Programmed to an Automated Network](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/BRKOPS-2717.pdf)
+* [Exploring Cisco Intersight PowerShell and Python SDK with Jupyter Notebook - DEVWKS-2254](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/DEVWKS-2254.pdf)
 * [ISE Deployments in the Cloud](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSEC-2000.pdf)
 * [I Broke the Network - but It Came Back! Build Self-Healing Networks Using NETCONF and Python (YouTube)](https://www.youtube.com/watch?v=Q7QrEy9N_y0)
 
@@ -38,6 +41,7 @@ for Fun and (fake) Profit - Hands-on Labs](https://www.ciscolive.com/c/dam/r/cis
 * [Mastering BGP with recent features and troubleshooting techniques on IOS-XR](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSP-2140.pdf)
 * [ACI Troubleshooting: A deep dive into PBR](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/BRKDCN-3915.pdf)
 * [ACI Troubleshooting: Advanced L3out Features - BRKDCN 3569 (YouTube)](https://www.youtube.com/watch?v=CjycOIQeOYw)
+* [Introduction to IOS-XR](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSP-2054.pdf)
 * [IOS XR Installation Demystification](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSP-2693.pdf)
 * [IOS-XE Routing Platform Troubleshooting Hands-on Lab](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRTRS-2293.pdf)
 * [IOS-XR EVPN Hands-on Lab](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2023/pdf/LTRSP-2837.pdf)
